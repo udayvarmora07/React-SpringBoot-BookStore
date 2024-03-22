@@ -4,12 +4,12 @@
 
 ### Features
 
-Home Page: Displays a simple quote or message.
-Add Book: Allows users to add new books to the bookstore database.
-Book List: Shows a list of all the books stored in the database.
-Update Book: Allows users to update the details of existing books.
-Delete Book: Allows users to delete books from the database.
-User List: Displays a list of all the users registered in the system.
+=> Home Page: Displays a simple quote or message.
+=> Add Book: Allows users to add new books to the bookstore database.
+=> Book List: Shows a list of all the books stored in the database.
+=> Update Book: Allows users to update the details of existing books.
+=> Delete Book: Allows users to delete books from the database.
+=> User List: Displays a list of all the users registered in the system.
 
 ### Technologies Used
 
@@ -27,8 +27,8 @@ MySQL
 
 ### Prerequisites
 
-1)Java Development Kit (JDK) installed
-2)MySQL installed and running
+1)Java Development Kit (JDK) installed.
+2)MySQL installed and running.
 
 ### To run this app
 
